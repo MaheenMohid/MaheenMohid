@@ -8,7 +8,7 @@ Hi 👋 My name is Maheen Mohiuddin<br>Full Stack Web Developer<br>🌍  I'm bas
 
 
 ## 🌐 Socials:
-<p align="left"> <a href="https://www.github.com/MaheenMohid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#5608) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maheen_mohiuddin66) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.maheen-mohiuddin-5b25a5256) 
 
 # 💻 Tech Stack:
